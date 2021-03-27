@@ -1329,3 +1329,4 @@
 [2021-03-26 06:57:18] main.INFO: Add of item with id Yotpo_Yotpo::yotpo_reviews_external was processed [] []
 [2021-03-26 06:57:18] main.INFO: Add of item with id Yotpo_Yotpo::yotpo_analytics_external was processed [] []
 [2021-03-26 08:39:26] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://example.com/admin/admin/index/index/key/87ed6b8501e4a85d05cf5b85a2624e3624cf5cfe9af8a9dbd850a3c452f80bbb/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"}} []
+[2021-03-27 08:01:40] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://example.com/admin/admin/index/index/key/8fc349dc23d31340cb08ded72aaf43a8af8cb4b99e3141c5531103923a809f15/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"}} []
